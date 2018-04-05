@@ -1,7 +1,6 @@
 # Normandy-css
 
-Normandy CSS és una metodologia per organitzar i desenvolupar el CSS
-dels projectes de Calidae.
+Normandy CSS és la metodologia per organitzar i estructurar el CSS dels projectes de Calidae.
 
 També inclou un boilerplate en Sass de la implementació d'aquests acords.
 
@@ -13,7 +12,7 @@ Consulta la metodologia i documentació a [Gitbook](https://afontcu.gitbooks.io/
 
 ## Contributing
 
-`npm i`
+`npm install`
 
 Consulta el `package.json` per veure els scripts disponibles.
 
